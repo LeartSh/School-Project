@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="sq">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dyqanet | City Mall</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <div class="logo">CITY<span>MALL</span></div>
+            <ul class="nav-links">
+                <li><a href="index.html">Ballina</a></li>
+                <li><a href="dyqanet.html">Dyqanet</a></li>
+                <li><a href="sherbimet.html">Shërbimet</a></li>
+                <li><a href="kontakti.html">Kontakt</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section class="container" style="margin-top: 100px;">
+        <h2 class="section-title">Brendet tona</h2>
+        echo "";
+    </section>
+
+    <footer><p>&copy; 2026 City Mall. Të gjitha të drejtat e rezervuara.</p></footer>
+</body>
+</html>
