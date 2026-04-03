@@ -1,5 +1,5 @@
 <?php
-include('/Config/db.php');
+include('db.php');
 
 if(isset($_POST['ruaj_dyqanin'])) {
     $emri = $_POST['emri'];
