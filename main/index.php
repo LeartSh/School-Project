@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Qendra Tregtare | City Mall</title>
-    <link rel="stylesheet" href="/project/admin-style.css">
+    <link rel="stylesheet" href="/project/style.css">
 </head>
 <body>
 
