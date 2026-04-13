@@ -7,7 +7,7 @@ if (!$id) { header("Location: dashboard.php"); exit(); }
 if (isset($_POST['update_shop'])) {
     $id = $_POST['id'];
     $emri = $_POST['Emertimi'];
-    $kategoria_id = $_POST['kategoria_id']; // Kujdes: duhet të jetë fiks si te input 'name'
+    $kategoria_id = $_POST['kategoria_id'];
     $kati = $_POST['Kati'];
 
     try {
